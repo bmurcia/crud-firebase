@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "929378992478",
+    "project_id": "crud-flutter-3d6a1",
+    "storage_bucket": "crud-flutter-3d6a1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929378992478:android:f0637415543fe7d089cfcf",
+        "android_client_info": {
+          "package_name": "com.example.flutter_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9T3jxNMFGMJHcHc3Tjnn-ndOLbQDt8cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
